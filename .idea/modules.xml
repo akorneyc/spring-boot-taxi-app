@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/taxi-clients/taxi-clients.iml" filepath="$PROJECT_DIR$/taxi-clients/taxi-clients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taxi-control/taxi-control.iml" filepath="$PROJECT_DIR$/taxi-control/taxi-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taxi-discovery-server/taxi-discovery-server.iml" filepath="$PROJECT_DIR$/taxi-discovery-server/taxi-discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taxi-drivers/taxi-drivers.iml" filepath="$PROJECT_DIR$/taxi-drivers/taxi-drivers.iml" />
+    </modules>
+  </component>
+</project>

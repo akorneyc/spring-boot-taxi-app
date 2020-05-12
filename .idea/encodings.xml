@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/taxi-clients/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taxi-clients/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taxi-control/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taxi-control/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taxi-discovery-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taxi-discovery-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taxi-drivers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taxi-drivers/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
